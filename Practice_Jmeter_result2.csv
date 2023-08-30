@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693391774254,4619,HTTP Request,200,OK,Practice_Thread_Group 1-3,text,true,,465640,118,30,30,https://www.minmaxst.com/,1095,0,785
+1693391774454,4460,HTTP Request,200,OK,Practice_Thread_Group 1-5,text,true,,465640,118,30,30,https://www.minmaxst.com/,895,0,597
+1693391774153,4875,HTTP Request,200,OK,Practice_Thread_Group 1-2,text,true,,465640,118,30,30,https://www.minmaxst.com/,1196,0,886
+1693391774651,4399,HTTP Request,200,OK,Practice_Thread_Group 1-7,text,true,,465640,118,30,30,https://www.minmaxst.com/,876,0,586
+1693391774551,4539,HTTP Request,200,OK,Practice_Thread_Group 1-6,text,true,,465640,118,30,30,https://www.minmaxst.com/,880,0,586
+1693391774751,4456,HTTP Request,200,OK,Practice_Thread_Group 1-8,text,true,,465640,118,30,30,https://www.minmaxst.com/,892,0,591
+1693391774141,5086,HTTP Request,200,OK,Practice_Thread_Group 1-1,text,true,,465640,118,30,30,https://www.minmaxst.com/,1208,0,899
+1693391774353,4955,HTTP Request,200,OK,Practice_Thread_Group 1-4,text,true,,465640,118,30,30,https://www.minmaxst.com/,996,0,687
+1693391774963,4401,HTTP Request,200,OK,Practice_Thread_Group 1-10,text,true,,465640,118,30,30,https://www.minmaxst.com/,875,0,583
+1693391774851,4740,HTTP Request,200,OK,Practice_Thread_Group 1-9,text,true,,465640,118,30,30,https://www.minmaxst.com/,886,0,594
+1693391775151,4577,HTTP Request,200,OK,Practice_Thread_Group 1-12,text,true,,465640,118,30,30,https://www.minmaxst.com/,884,0,589
+1693391775252,4532,HTTP Request,200,OK,Practice_Thread_Group 1-13,text,true,,465640,118,30,30,https://www.minmaxst.com/,895,0,595
+1693391775057,4744,HTTP Request,200,OK,Practice_Thread_Group 1-11,text,true,,465640,118,30,30,https://www.minmaxst.com/,891,0,592
+1693391775351,4559,HTTP Request,200,OK,Practice_Thread_Group 1-14,text,true,,465640,118,30,30,https://www.minmaxst.com/,891,0,591
+1693391775451,4584,HTTP Request,200,OK,Practice_Thread_Group 1-15,text,true,,465640,118,30,30,https://www.minmaxst.com/,883,0,589
+1693391775550,4652,HTTP Request,200,OK,Practice_Thread_Group 1-16,text,true,,465640,118,30,30,https://www.minmaxst.com/,899,0,600
+1693391775650,4556,HTTP Request,200,OK,Practice_Thread_Group 1-17,text,true,,465640,118,30,30,https://www.minmaxst.com/,917,0,591
+1693391775750,4699,HTTP Request,200,OK,Practice_Thread_Group 1-18,text,true,,465640,118,30,30,https://www.minmaxst.com/,885,0,587
+1693391775852,4669,HTTP Request,200,OK,Practice_Thread_Group 1-19,text,true,,465640,118,30,30,https://www.minmaxst.com/,893,0,594
+1693391776351,4558,HTTP Request,200,OK,Practice_Thread_Group 1-24,text,true,,465640,118,30,30,https://www.minmaxst.com/,904,0,589
+1693391778876,2223,HTTP Request,200,OK,Practice_Thread_Group 1-3,text,true,,465614,118,30,30,https://www.minmaxst.com/,299,0,0
+1693391779091,2249,HTTP Request,200,OK,Practice_Thread_Group 1-6,text,true,,465614,118,29,29,https://www.minmaxst.com/,298,0,0
+1693391776050,5293,HTTP Request,200,OK,Practice_Thread_Group 1-21,text,true,,465640,118,28,28,https://www.minmaxst.com/,889,0,587
+1693391779364,2193,HTTP Request,200,OK,Practice_Thread_Group 1-10,text,true,,465614,118,28,28,https://www.minmaxst.com/,373,0,0
+1693391781343,222,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.minmaxst.com:443 failed to respond,Practice_Thread_Group 1-21,text,false,,2098,0,27,27,https://www.minmaxst.com/,0,0,0
+1693391776649,4999,HTTP Request,200,OK,Practice_Thread_Group 1-27,text,true,,465640,118,26,26,https://www.minmaxst.com/,923,0,608
+1693391779208,2506,HTTP Request,200,OK,Practice_Thread_Group 1-8,text,true,,465614,118,26,26,https://www.minmaxst.com/,331,0,0
+1693391775950,5864,HTTP Request,200,OK,Practice_Thread_Group 1-20,text,true,,465640,118,25,25,https://www.minmaxst.com/,948,0,619
+1693391779728,2136,HTTP Request,200,OK,Practice_Thread_Group 1-12,text,true,,465614,118,25,25,https://www.minmaxst.com/,320,0,0
+1693391779785,2176,HTTP Request,200,OK,Practice_Thread_Group 1-13,text,true,,465614,118,24,24,https://www.minmaxst.com/,332,0,0
+1693391776550,5432,HTTP Request,200,OK,Practice_Thread_Group 1-26,text,true,,465640,118,23,23,https://www.minmaxst.com/,966,0,649
+1693391781983,2,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.minmaxst.com:443 failed to respond,Practice_Thread_Group 1-26,text,false,,2098,0,23,23,https://www.minmaxst.com/,0,0,0
+1693391779802,2203,HTTP Request,200,OK,Practice_Thread_Group 1-11,text,true,,465614,118,22,22,https://www.minmaxst.com/,353,0,0
+1693391780035,2159,HTTP Request,200,OK,Practice_Thread_Group 1-15,text,true,,465614,118,21,21,https://www.minmaxst.com/,335,0,0
+1693391776750,5620,HTTP Request,200,OK,Practice_Thread_Group 1-28,text,true,,465640,118,20,20,https://www.minmaxst.com/,907,0,601
+1693391782371,2,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.minmaxst.com:443 failed to respond,Practice_Thread_Group 1-28,text,false,,2098,0,20,20,https://www.minmaxst.com/,0,0,0
+1693391780207,2180,HTTP Request,200,OK,Practice_Thread_Group 1-17,text,true,,465614,118,19,19,https://www.minmaxst.com/,336,0,0
+1693391779050,3347,HTTP Request,200,OK,Practice_Thread_Group 1-7,text,true,,465614,118,18,18,https://www.minmaxst.com/,291,0,0
+1693391776150,6309,HTTP Request,200,OK,Practice_Thread_Group 1-22,text,true,,465640,118,17,17,https://www.minmaxst.com/,878,0,584
+1693391776951,5596,HTTP Request,200,OK,Practice_Thread_Group 1-30,text,true,,465640,118,17,17,https://www.minmaxst.com/,944,0,623
+1693391780450,2116,HTTP Request,200,OK,Practice_Thread_Group 1-18,text,true,,465614,118,17,17,https://www.minmaxst.com/,350,0,0
+1693391780522,2144,HTTP Request,200,OK,Practice_Thread_Group 1-19,text,true,,465614,118,16,16,https://www.minmaxst.com/,328,0,0
+1693391776851,5987,HTTP Request,200,OK,Practice_Thread_Group 1-29,text,true,,465640,118,15,15,https://www.minmaxst.com/,867,0,574
+1693391782839,2,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.minmaxst.com:443 failed to respond,Practice_Thread_Group 1-29,text,false,,2098,0,15,15,https://www.minmaxst.com/,0,0,0
+1693391780910,2122,HTTP Request,200,OK,Practice_Thread_Group 1-24,text,true,,465614,118,14,14,https://www.minmaxst.com/,307,0,0
+1693391778915,4158,HTTP Request,200,OK,Practice_Thread_Group 1-5,text,true,,465614,118,13,13,https://www.minmaxst.com/,306,0,0
+1693391779308,4272,HTTP Request,200,OK,Practice_Thread_Group 1-4,text,true,,465614,118,12,12,https://www.minmaxst.com/,298,0,0
+1693391779029,4818,HTTP Request,200,OK,Practice_Thread_Group 1-2,text,true,,465614,118,11,11,https://www.minmaxst.com/,305,0,0
+1693391780202,3751,HTTP Request,200,OK,Practice_Thread_Group 1-16,text,true,,465614,118,10,10,https://www.minmaxst.com/,338,0,0
+1693391776250,8156,HTTP Request,200,OK,Practice_Thread_Group 1-23,text,true,,465640,118,9,9,https://www.minmaxst.com/,952,0,644
+1693391784407,2,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.minmaxst.com:443 failed to respond,Practice_Thread_Group 1-23,text,false,,2098,0,9,9,https://www.minmaxst.com/,0,0,0
+1693391776449,8301,HTTP Request,200,OK,Practice_Thread_Group 1-25,text,true,,465640,118,8,8,https://www.minmaxst.com/,907,0,600
+1693391784751,2,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.minmaxst.com:443 failed to respond,Practice_Thread_Group 1-25,text,false,,2098,0,8,8,https://www.minmaxst.com/,0,0,0
+1693391781650,3222,HTTP Request,200,OK,Practice_Thread_Group 1-27,text,true,,465614,118,7,7,https://www.minmaxst.com/,298,0,0
+1693391779592,5690,HTTP Request,200,OK,Practice_Thread_Group 1-9,text,true,,465614,118,6,6,https://www.minmaxst.com/,305,0,0
+1693391779228,7335,HTTP Request,200,OK,Practice_Thread_Group 1-1,text,true,,465614,118,5,5,https://www.minmaxst.com/,327,0,0
+1693391779910,6709,HTTP Request,200,OK,Practice_Thread_Group 1-14,text,true,,465614,118,4,4,https://www.minmaxst.com/,1783,0,0
+1693391782460,4592,HTTP Request,200,OK,Practice_Thread_Group 1-22,text,true,,465614,118,3,3,https://www.minmaxst.com/,307,0,0
+1693391781814,5515,HTTP Request,200,OK,Practice_Thread_Group 1-20,text,true,,465614,118,2,2,https://www.minmaxst.com/,300,0,0
+1693391782549,4838,HTTP Request,200,OK,Practice_Thread_Group 1-30,text,true,,465614,118,1,1,https://www.minmaxst.com/,324,0,0
